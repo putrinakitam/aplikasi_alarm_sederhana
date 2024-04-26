@@ -1,0 +1,8 @@
+<!-- res/drawable/button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Definisikan bentuk kotak -->
+    <corners android:radius="0dp" /> <!-- Sudut runcing -->
+    <solid android:color="#A28FBE" /> <!-- Warna latar belakang tombol -->
+    <stroke android:width="2dp" android:color="#FFFFFF" /> <!-- Garis tepi -->
+    <padding android:left="8dp" android:right="8dp" android:top="8dp" android:bottom="8dp" />
+</shape>
